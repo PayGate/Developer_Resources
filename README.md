@@ -1,6 +1,6 @@
 # Developer_Resources
-## DPO PayGate Developer Resources
-These are the DPO PayGate developer resources. Please feel free to contact the DPO PayGate support team at support@paygate.co.za should you require any assistance.
+## PayGate Developer Resources
+These are the PayGate developer resources. Please feel free to contact the PayGate support team at support@paygate.co.za should you require any assistance.
 
 ## PaySubs
 **PDF Documentation:**
